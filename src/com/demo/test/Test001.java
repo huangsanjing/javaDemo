@@ -18,6 +18,8 @@ public class Test001 {
       float b = a*1;
       System.out.println("b:"+b);
 
+
+
     }
 
 }
